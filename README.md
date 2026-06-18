@@ -14,7 +14,8 @@ The assistant accepts user questions, processes them through LangChain workflows
 
 The chatbot runs in interactive mode and accepts user questions from the terminal.
 
-<img width="100%" src="./screenshots/op1.png" />
+<img width="1600" height="735" alt="WhatsApp Image 2026-06-18 at 12 08 41 PM" src="https://github.com/user-attachments/assets/095ed87a-dc7e-48e4-a860-8b6ef9fa51ff" />
+
 
 ---
 
@@ -22,7 +23,8 @@ The chatbot runs in interactive mode and accepts user questions from the termina
 
 The assistant explains concepts clearly using LangChain chains and agent workflows.
 
-<img width="100%" src="./screenshots/op2.png" />
+<img width="1600" height="580" alt="WhatsApp Image 2026-06-18 at 12 08 41 PM (1)" src="https://github.com/user-attachments/assets/493e7c64-7737-43be-888b-fd355145f759" />
+
 
 ---
 
@@ -285,22 +287,6 @@ README.md
 package.json
 tsconfig.json
 ```
-
-```
-# Screenshots
-
-## Interactive Study Assistant
-
-<img width="1600" height="735" alt="image" src="https://github.com/user-attachments/assets/c38faa42-0e0c-4424-a384-48c5ed0e2db8" />
-
-
----
-
-## Example Response – Chains vs Agents
-
-<img width="1600" height="580" alt="image" src="https://github.com/user-attachments/assets/52ad0cb3-67f5-4501-a78c-efd2ce541f88" />
-
----
 
 # Technologies Used
 
