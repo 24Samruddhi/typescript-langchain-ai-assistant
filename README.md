@@ -14,15 +14,11 @@ The assistant accepts user questions, processes them through LangChain workflows
 
 The chatbot runs in interactive mode and accepts user questions from the terminal.
 
-<img width="100%" src="./screenshots/op1.png" />
-
 ---
 
 ## Example Response – Chains vs Agents
 
 The assistant explains concepts clearly using LangChain chains and agent workflows.
-
-<img width="100%" src="./screenshots/op2.png" />
 
 ---
 
